@@ -1,10 +1,28 @@
 {
-"name": "Moodle Mobile",
+"name": "UOL Mobile LMS",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
+
+{
+    "fullname": "Wamiq Munir",
+    "contribution": "Developer for UOLISB MOBILE LMS",
+    "company": "The university of Lahore"
+},
+{
+    "fullname": "Rubi Javed",
+    "contribution": "Developer for UOLISB MOBILE LMS",
+    "company": "The university of Lahore"
+},
+
+{
+    "fullname": "Abdul Jawad",
+    "contribution": "Developer for UOLISB MOBILE LMS",
+    "company": "The university of Lahore"
+},
+
 {
     "fullname": "Juan Leyva",
     "contribution": "Main developer",

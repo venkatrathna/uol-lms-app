@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "385"
         version   = "1.11">
-    <name>Moodle Mobile</name>
+    <name>UOL MOBILE LMS</name>
 
     <description>
-        Moodle Mobile official app
+        The University of Lahore Islamabad Campus Official App
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://moodle.com" email="">
+        Abdul Jawad, Rubi Javed and Wamiq Munir
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
