@@ -329,6 +329,7 @@ hr {
 .media .bd {
   display: block;
   overflow: hidden;
+  float: right;
 }
 /* =2.6 - LOADING OBJECT
 -------------------------------------------------------------------------- */
